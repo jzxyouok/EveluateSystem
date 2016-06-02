@@ -15,7 +15,7 @@ import android.view.MenuItem;
 
 public class WelcomeActivity extends Activity {
 	
-	public final String appId="e1d18a55311dd3b85e2f3fececcac86d";
+	public final String appId="0c13de934a528b0c492dce6b883d0c61";
 	Handler handler=new Handler(){
 		public void handleMessage(Message message){
 			switch(message.what){

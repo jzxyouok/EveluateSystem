@@ -8,5 +8,7 @@
 	<classpathentry kind="lib" path="libs/org.apache.http.legacy.jar"/>
 	<classpathentry kind="lib" path="libs/okhttp-3.2.0.jar"/>
 	<classpathentry kind="lib" path="libs/Bmob_Push_V0.9beta_20160520.jar"/>
+	<classpathentry kind="lib" path="libs/BmobSDK_V3.4.7_0518.jar"/>
+	<classpathentry kind="lib" path="libs/okio-1.7.0.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
